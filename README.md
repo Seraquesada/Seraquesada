@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Serafin Quesada</h1>
+<h1 align="center">Hi, I'm Serafin Quesada</h1>
 <h3 align="center">A software developer based in Buenos Aires, Argentina. I mainly code in typescript and react, at the moment I'm learning Next Js and Node Js. Looking foward to become a Front-End Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seraquesada&label=Profile%20views&color=0e75b6&style=flat" alt="seraquesada" /> </p>
